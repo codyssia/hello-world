@@ -1,2 +1,2 @@
 # hello-world
-Learning to git
+Learning to git it on, after having signed up for Git months ago...
